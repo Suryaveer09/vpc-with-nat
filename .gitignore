@@ -18,5 +18,3 @@
 
 # Ignore terraform lock file for cross-platform compatibility
 .terraform.lock.hcl
-
-.gitignore
